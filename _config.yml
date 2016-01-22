@@ -1,0 +1,28 @@
+name: iy
+favicon: null
+layout_spectrum: 0.7022558683529496
+typography_spectrum: 0.43215523287653923
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.7661313442513347
+  lightness: 0.5873024861793965
+  saturation: 0.8648703501094133
+  rhythmicContrast: 0.8997133236844093
+purpose: []
