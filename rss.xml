@@ -4,7 +4,7 @@
         <description><![CDATA[iy]]></description>
         <link>https://thegrid.ai/iy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 02:09:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 18:57:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/iy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/iy/5ed6bc6d-5103-472b-8dce-a76f1e00a8c0/index.html</link>
             <guid isPermaLink="false">5ed6bc6d-5103-472b-8dce-a76f1e00a8c0</guid>
             <pubDate>Sat, 23 Jan 2016 22:24:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Web design ]]></title>
+            <description><![CDATA[<article><h1>Web design </h1><p>Programmers like me are often intimidated by design - but a little effort can give a huge return on investment. Here are one coder's tips for making any site quickly look more professional. I am a programmer. I am not a designer. I have a degree in computer science, and I don't mind Comic Sans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b3fcf2b7245d8a969e9f11ab540f04b819ebf93.png"></article>]]></description>
+            <link>https://24ways.org/2012/how-to-make-your-site-look-half-decent/</link>
+            <guid isPermaLink="false">64e6a6e5-0788-4c22-b141-1ee1d0d19e98</guid>
+            <pubDate>Sat, 13 Feb 2016 18:56:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Go clap little]]></title>
