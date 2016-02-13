@@ -4,15 +4,8 @@
         <description><![CDATA[iy]]></description>
         <link>https://thegrid.ai/iy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 18:57:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 18:58:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/iy/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Hello]]></title>
-            <description><![CDATA[<article><h1>Hello</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0318440673722b436a3cf3e23a25563cb57c608e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/iy/5ed6bc6d-5103-472b-8dce-a76f1e00a8c0/index.html</link>
-            <guid isPermaLink="false">5ed6bc6d-5103-472b-8dce-a76f1e00a8c0</guid>
-            <pubDate>Sat, 23 Jan 2016 22:24:19 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Web design ]]></title>
             <description><![CDATA[<article><h1>Web design </h1><p>Programmers like me are often intimidated by design - but a little effort can give a huge return on investment. Here are one coder's tips for making any site quickly look more professional. I am a programmer. I am not a designer. I have a degree in computer science, and I don't mind Comic Sans.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b3fcf2b7245d8a969e9f11ab540f04b819ebf93.png"></article>]]></description>
@@ -26,13 +19,6 @@
             <link>https://www.qapital.com/policies/fees</link>
             <guid isPermaLink="false">474d6c4d-3bbe-4ea0-9431-26ae6e29d8bb</guid>
             <pubDate>Thu, 11 Feb 2016 02:08:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Why plant a tree?</p>]]></description>
-            <link>https://thegrid.ai/iy/aae29fb4-8269-4d00-a739-dc4a4d7c6af7/index.html</link>
-            <guid isPermaLink="false">aae29fb4-8269-4d00-a739-dc4a4d7c6af7</guid>
-            <pubDate>Fri, 22 Jan 2016 23:09:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
